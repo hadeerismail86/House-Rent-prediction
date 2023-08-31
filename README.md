@@ -6,4 +6,7 @@ The Human Rights Measurement Initiative finds that India is doing 60.9% of what 
 Renting, also known as hiring or letting, is an agreement where a payment is made for the temporary use of a good, service, or property owned by another. 
 A gross lease is when the tenant pays a flat rental amount and the landlord pays for all property charges regularly incurred by the ownership. 
 Renting can be an example of the sharing economy.
+The aim of the project is to build a machine learning model to predict the rent price of homes based on different explanatory varables describing aspects of residential houses
+
+
 
